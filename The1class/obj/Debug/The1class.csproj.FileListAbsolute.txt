@@ -1,0 +1,10 @@
+E:\own\C#课程\The1class\The1class\bin\Debug\The1class.exe.config
+E:\own\C#课程\The1class\The1class\bin\Debug\The1class.exe
+E:\own\C#课程\The1class\The1class\bin\Debug\The1class.pdb
+E:\own\C#课程\The1class\The1class\obj\Debug\The1class.csprojAssemblyReference.cache
+E:\own\C#课程\The1class\The1class\obj\Debug\The1class.Form1.resources
+E:\own\C#课程\The1class\The1class\obj\Debug\The1class.Properties.Resources.resources
+E:\own\C#课程\The1class\The1class\obj\Debug\The1class.csproj.GenerateResource.cache
+E:\own\C#课程\The1class\The1class\obj\Debug\The1class.csproj.CoreCompileInputs.cache
+E:\own\C#课程\The1class\The1class\obj\Debug\The1class.exe
+E:\own\C#课程\The1class\The1class\obj\Debug\The1class.pdb
